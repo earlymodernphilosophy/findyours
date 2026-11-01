@@ -1,0 +1,6 @@
+{
+  "name": "Early Modern Philosopher Persona Quiz",
+  "description": "Discover which 17th or 18th-century early modern philosopher you are most similar to across epistemology, metaphysics, ethics, politics, and science.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
