@@ -4,5 +4,5 @@
  */
 
 export function getPhilosopherPortrait(id: string): string {
-  return `/src/assets/portraits/${id}.jpg`;
+  return `${import.meta.env.base_url}portraits/${id}.jpg`;
 }
