@@ -4,5 +4,5 @@
  */
 
 export function getPhilosopherPortrait(id: string): string {
-  return return `/findyours/portraits/${id}.jpg`;
+  return  `/findyours/portraits/${id}.jpg`;
 }
